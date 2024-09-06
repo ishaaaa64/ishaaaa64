@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Isha
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Backend
+- 📫 How to reach me (email) : ishakaliraman8@gmail.com
+- 😄 Pronouns: She
